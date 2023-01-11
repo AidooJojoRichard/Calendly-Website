@@ -1,0 +1,17 @@
+
+
+.nav1 {
+    background-color: #ffffff !important;
+}
+
+.links a {
+        color: #000000
+}
+
+.button {
+    color: #fff;
+    background-color: #000000;
+    border-color: #000000;
+    border-radius: 2.25rem;
+    font-size: 20px;
+}
